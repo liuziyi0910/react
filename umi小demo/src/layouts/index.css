@@ -1,0 +1,14 @@
+.logo {
+  height: 31px;
+  background: url("../assets/77193786_p18_master1200.jpg") -140px -210px ;
+  width:20.5% ;
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+.container{
+  min-height: 500px;
+  min-width: 600px;
+  background: darkgray;
+}
+
